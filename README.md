@@ -1,6 +1,6 @@
 ## Getting started
 
-### Build for Lean LEDE project
+### Build project
 
 ```bash
 cd lede/package/lean
